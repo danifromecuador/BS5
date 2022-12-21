@@ -2,7 +2,9 @@
   /* border: 1px solid red; */
 }
 
-a, ul, li {
+a,
+ul,
+li {
   text-decoration: none;
   list-style: none;
 }
